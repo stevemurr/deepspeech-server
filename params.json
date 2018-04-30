@@ -1,0 +1,12 @@
+{
+    "beam_width": 500,
+    "lm_weight": 1.75,
+    "word_count_weight": 1.00,
+    "valid_word_count_weight": 1.00,
+    "n_features": 26,
+    "n_context": 9,
+    "alphabet": "./models/alphabet.txt",
+    "lm": "./models/lm.binary",
+    "model": "./models/output_graph.pb",
+    "trie": "./models/trie"
+}
